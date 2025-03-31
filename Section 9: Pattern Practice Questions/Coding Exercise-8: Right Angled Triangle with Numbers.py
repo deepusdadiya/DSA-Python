@@ -1,11 +1,11 @@
 # Problem Description:
 
 # You are given an integer n. Your task is to return a right-angled triangle pattern where each row contains repeated digits. 
-# The first row contains the number 1 repeated once, the second row contains the number 2 repeated twice, and so on until the nth row contains the number n repeated n times.
+# The first row contains the number 1 repeated once, the second row contains the number 2 repeated twice, 
+# and so on until the nth row contains the number n repeated n times.
 
 # Input:
 # A single integer n, where 1 <= n <= 100.
-
 
 # Output:
 # A list of strings where each string represents a row in the triangle. The ith row contains the digit i repeated i times.
