@@ -1,3 +1,4 @@
+# List
 l1 = []
 
 l1.append(1)
@@ -6,7 +7,7 @@ l1.append('python')
 
 print(l1[0])
 
-
+# Array
 import array
 
 arr = array.array('i',[1,2,3,4,5])
